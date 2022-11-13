@@ -1,0 +1,15 @@
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresLógicos\bin\Debug\net6.0\OperadoresLógicos.exe
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresLógicos\bin\Debug\net6.0\OperadoresLógicos.deps.json
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresLógicos\bin\Debug\net6.0\OperadoresLógicos.runtimeconfig.json
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresLógicos\bin\Debug\net6.0\OperadoresLógicos.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresLógicos\bin\Debug\net6.0\OperadoresLógicos.pdb
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresLógicos\obj\Debug\net6.0\refint\OperadoresLógicos.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.pdb
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresLógicos\obj\Debug\net6.0\ref\OperadoresLógicos.dll

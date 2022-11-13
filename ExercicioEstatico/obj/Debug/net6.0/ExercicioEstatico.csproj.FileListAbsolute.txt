@@ -1,0 +1,15 @@
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ExercicioEstatico\bin\Debug\net6.0\ExercicioEstatico.exe
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ExercicioEstatico\bin\Debug\net6.0\ExercicioEstatico.deps.json
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ExercicioEstatico\bin\Debug\net6.0\ExercicioEstatico.runtimeconfig.json
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ExercicioEstatico\bin\Debug\net6.0\ExercicioEstatico.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ExercicioEstatico\bin\Debug\net6.0\ExercicioEstatico.pdb
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ExercicioEstatico\obj\Debug\net6.0\ExercicioEstatico.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ExercicioEstatico\obj\Debug\net6.0\ExercicioEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ExercicioEstatico\obj\Debug\net6.0\ExercicioEstatico.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ExercicioEstatico\obj\Debug\net6.0\ExercicioEstatico.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ExercicioEstatico\obj\Debug\net6.0\ExercicioEstatico.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ExercicioEstatico\obj\Debug\net6.0\ExercicioEstatico.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ExercicioEstatico\obj\Debug\net6.0\refint\ExercicioEstatico.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ExercicioEstatico\obj\Debug\net6.0\ExercicioEstatico.pdb
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ExercicioEstatico\obj\Debug\net6.0\ExercicioEstatico.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ExercicioEstatico\obj\Debug\net6.0\ref\ExercicioEstatico.dll

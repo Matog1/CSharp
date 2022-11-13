@@ -1,0 +1,30 @@
+C:\Users\Mathias\Desktop\CursoCSharp\OperadoresCSharp\obj\Debug\net6.0\OperadoresCSharp.csproj.AssemblyReference.cache
+C:\Users\Mathias\Desktop\CursoCSharp\OperadoresCSharp\obj\Debug\net6.0\OperadoresCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Desktop\CursoCSharp\OperadoresCSharp\obj\Debug\net6.0\OperadoresCSharp.AssemblyInfoInputs.cache
+C:\Users\Mathias\Desktop\CursoCSharp\OperadoresCSharp\obj\Debug\net6.0\OperadoresCSharp.AssemblyInfo.cs
+C:\Users\Mathias\Desktop\CursoCSharp\OperadoresCSharp\obj\Debug\net6.0\OperadoresCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\CursoCSharp\OperadoresCSharp\bin\Debug\net6.0\OperadoresCSharp.exe
+C:\Users\Mathias\Desktop\CursoCSharp\OperadoresCSharp\bin\Debug\net6.0\OperadoresCSharp.deps.json
+C:\Users\Mathias\Desktop\CursoCSharp\OperadoresCSharp\bin\Debug\net6.0\OperadoresCSharp.runtimeconfig.json
+C:\Users\Mathias\Desktop\CursoCSharp\OperadoresCSharp\bin\Debug\net6.0\OperadoresCSharp.dll
+C:\Users\Mathias\Desktop\CursoCSharp\OperadoresCSharp\bin\Debug\net6.0\OperadoresCSharp.pdb
+C:\Users\Mathias\Desktop\CursoCSharp\OperadoresCSharp\obj\Debug\net6.0\OperadoresCSharp.dll
+C:\Users\Mathias\Desktop\CursoCSharp\OperadoresCSharp\obj\Debug\net6.0\refint\OperadoresCSharp.dll
+C:\Users\Mathias\Desktop\CursoCSharp\OperadoresCSharp\obj\Debug\net6.0\OperadoresCSharp.pdb
+C:\Users\Mathias\Desktop\CursoCSharp\OperadoresCSharp\obj\Debug\net6.0\OperadoresCSharp.genruntimeconfig.cache
+C:\Users\Mathias\Desktop\CursoCSharp\OperadoresCSharp\obj\Debug\net6.0\ref\OperadoresCSharp.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresCSharp\bin\Debug\net6.0\OperadoresCSharp.exe
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresCSharp\bin\Debug\net6.0\OperadoresCSharp.deps.json
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresCSharp\bin\Debug\net6.0\OperadoresCSharp.runtimeconfig.json
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresCSharp\bin\Debug\net6.0\OperadoresCSharp.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresCSharp\bin\Debug\net6.0\OperadoresCSharp.pdb
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresCSharp\obj\Debug\net6.0\OperadoresCSharp.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresCSharp\obj\Debug\net6.0\OperadoresCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresCSharp\obj\Debug\net6.0\OperadoresCSharp.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresCSharp\obj\Debug\net6.0\OperadoresCSharp.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresCSharp\obj\Debug\net6.0\OperadoresCSharp.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresCSharp\obj\Debug\net6.0\OperadoresCSharp.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresCSharp\obj\Debug\net6.0\refint\OperadoresCSharp.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresCSharp\obj\Debug\net6.0\OperadoresCSharp.pdb
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresCSharp\obj\Debug\net6.0\OperadoresCSharp.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\OperadoresCSharp\obj\Debug\net6.0\ref\OperadoresCSharp.dll

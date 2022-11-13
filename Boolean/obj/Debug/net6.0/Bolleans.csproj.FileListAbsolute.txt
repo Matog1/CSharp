@@ -1,0 +1,15 @@
+C:\Users\Mathias\Desktop\CursoCSharp\Boolean\obj\Debug\net6.0\Bolleans.csproj.AssemblyReference.cache
+C:\Users\Mathias\Desktop\CursoCSharp\Boolean\obj\Debug\net6.0\Bolleans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Desktop\CursoCSharp\Boolean\obj\Debug\net6.0\Bolleans.AssemblyInfoInputs.cache
+C:\Users\Mathias\Desktop\CursoCSharp\Boolean\obj\Debug\net6.0\Bolleans.AssemblyInfo.cs
+C:\Users\Mathias\Desktop\CursoCSharp\Boolean\obj\Debug\net6.0\Bolleans.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\CursoCSharp\Boolean\bin\Debug\net6.0\Bolleans.exe
+C:\Users\Mathias\Desktop\CursoCSharp\Boolean\bin\Debug\net6.0\Bolleans.deps.json
+C:\Users\Mathias\Desktop\CursoCSharp\Boolean\bin\Debug\net6.0\Bolleans.runtimeconfig.json
+C:\Users\Mathias\Desktop\CursoCSharp\Boolean\bin\Debug\net6.0\Bolleans.dll
+C:\Users\Mathias\Desktop\CursoCSharp\Boolean\bin\Debug\net6.0\Bolleans.pdb
+C:\Users\Mathias\Desktop\CursoCSharp\Boolean\obj\Debug\net6.0\Bolleans.dll
+C:\Users\Mathias\Desktop\CursoCSharp\Boolean\obj\Debug\net6.0\refint\Bolleans.dll
+C:\Users\Mathias\Desktop\CursoCSharp\Boolean\obj\Debug\net6.0\Bolleans.pdb
+C:\Users\Mathias\Desktop\CursoCSharp\Boolean\obj\Debug\net6.0\Bolleans.genruntimeconfig.cache
+C:\Users\Mathias\Desktop\CursoCSharp\Boolean\obj\Debug\net6.0\ref\Bolleans.dll

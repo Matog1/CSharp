@@ -1,0 +1,15 @@
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\CondiçãoFor\bin\Debug\net6.0\CondiçãoFor.exe
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\CondiçãoFor\bin\Debug\net6.0\CondiçãoFor.deps.json
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\CondiçãoFor\bin\Debug\net6.0\CondiçãoFor.runtimeconfig.json
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\CondiçãoFor\bin\Debug\net6.0\CondiçãoFor.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\CondiçãoFor\bin\Debug\net6.0\CondiçãoFor.pdb
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\CondiçãoFor\obj\Debug\net6.0\CondiçãoFor.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\CondiçãoFor\obj\Debug\net6.0\CondiçãoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\CondiçãoFor\obj\Debug\net6.0\CondiçãoFor.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\CondiçãoFor\obj\Debug\net6.0\CondiçãoFor.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\CondiçãoFor\obj\Debug\net6.0\CondiçãoFor.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\CondiçãoFor\obj\Debug\net6.0\CondiçãoFor.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\CondiçãoFor\obj\Debug\net6.0\refint\CondiçãoFor.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\CondiçãoFor\obj\Debug\net6.0\CondiçãoFor.pdb
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\CondiçãoFor\obj\Debug\net6.0\CondiçãoFor.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\CondiçãoFor\obj\Debug\net6.0\ref\CondiçãoFor.dll

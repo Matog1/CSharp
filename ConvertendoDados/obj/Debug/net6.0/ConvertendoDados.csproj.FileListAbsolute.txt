@@ -1,0 +1,30 @@
+C:\Users\Mathias\Desktop\CursoCSharp\ConvertendoDados\bin\Debug\net6.0\ConvertendoDados.exe
+C:\Users\Mathias\Desktop\CursoCSharp\ConvertendoDados\bin\Debug\net6.0\ConvertendoDados.deps.json
+C:\Users\Mathias\Desktop\CursoCSharp\ConvertendoDados\bin\Debug\net6.0\ConvertendoDados.runtimeconfig.json
+C:\Users\Mathias\Desktop\CursoCSharp\ConvertendoDados\bin\Debug\net6.0\ConvertendoDados.dll
+C:\Users\Mathias\Desktop\CursoCSharp\ConvertendoDados\bin\Debug\net6.0\ConvertendoDados.pdb
+C:\Users\Mathias\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net6.0\ConvertendoDados.csproj.AssemblyReference.cache
+C:\Users\Mathias\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net6.0\ConvertendoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net6.0\ConvertendoDados.AssemblyInfoInputs.cache
+C:\Users\Mathias\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net6.0\ConvertendoDados.AssemblyInfo.cs
+C:\Users\Mathias\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net6.0\ConvertendoDados.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net6.0\ConvertendoDados.dll
+C:\Users\Mathias\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net6.0\refint\ConvertendoDados.dll
+C:\Users\Mathias\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net6.0\ConvertendoDados.pdb
+C:\Users\Mathias\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net6.0\ConvertendoDados.genruntimeconfig.cache
+C:\Users\Mathias\Desktop\CursoCSharp\ConvertendoDados\obj\Debug\net6.0\ref\ConvertendoDados.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConvertendoDados\bin\Debug\net6.0\ConvertendoDados.exe
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConvertendoDados\bin\Debug\net6.0\ConvertendoDados.deps.json
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConvertendoDados\bin\Debug\net6.0\ConvertendoDados.runtimeconfig.json
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConvertendoDados\bin\Debug\net6.0\ConvertendoDados.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConvertendoDados\bin\Debug\net6.0\ConvertendoDados.pdb
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConvertendoDados\obj\Debug\net6.0\ConvertendoDados.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConvertendoDados\obj\Debug\net6.0\ConvertendoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConvertendoDados\obj\Debug\net6.0\ConvertendoDados.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConvertendoDados\obj\Debug\net6.0\ConvertendoDados.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConvertendoDados\obj\Debug\net6.0\ConvertendoDados.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConvertendoDados\obj\Debug\net6.0\ConvertendoDados.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConvertendoDados\obj\Debug\net6.0\refint\ConvertendoDados.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConvertendoDados\obj\Debug\net6.0\ConvertendoDados.pdb
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConvertendoDados\obj\Debug\net6.0\ConvertendoDados.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConvertendoDados\obj\Debug\net6.0\ref\ConvertendoDados.dll

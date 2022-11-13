@@ -1,0 +1,15 @@
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\Problema\obj\Debug\net6.0\Problema.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\Problema\obj\Debug\net6.0\Problema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\Problema\obj\Debug\net6.0\Problema.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\Problema\obj\Debug\net6.0\Problema.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\Problema\obj\Debug\net6.0\Problema.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\Problema\bin\Debug\net6.0\Problema.exe
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\Problema\bin\Debug\net6.0\Problema.deps.json
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\Problema\bin\Debug\net6.0\Problema.runtimeconfig.json
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\Problema\bin\Debug\net6.0\Problema.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\Problema\bin\Debug\net6.0\Problema.pdb
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\Problema\obj\Debug\net6.0\Problema.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\Problema\obj\Debug\net6.0\refint\Problema.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\Problema\obj\Debug\net6.0\Problema.pdb
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\Problema\obj\Debug\net6.0\Problema.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\Problema\obj\Debug\net6.0\ref\Problema.dll

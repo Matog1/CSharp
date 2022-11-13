@@ -1,0 +1,15 @@
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConversãoECasting\bin\Debug\net6.0\ConversãoECasting.exe
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConversãoECasting\bin\Debug\net6.0\ConversãoECasting.deps.json
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConversãoECasting\bin\Debug\net6.0\ConversãoECasting.runtimeconfig.json
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConversãoECasting\bin\Debug\net6.0\ConversãoECasting.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConversãoECasting\bin\Debug\net6.0\ConversãoECasting.pdb
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConversãoECasting\obj\Debug\net6.0\ConversãoECasting.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConversãoECasting\obj\Debug\net6.0\ConversãoECasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConversãoECasting\obj\Debug\net6.0\ConversãoECasting.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConversãoECasting\obj\Debug\net6.0\ConversãoECasting.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConversãoECasting\obj\Debug\net6.0\ConversãoECasting.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConversãoECasting\obj\Debug\net6.0\ConversãoECasting.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConversãoECasting\obj\Debug\net6.0\refint\ConversãoECasting.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConversãoECasting\obj\Debug\net6.0\ConversãoECasting.pdb
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConversãoECasting\obj\Debug\net6.0\ConversãoECasting.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\ConversãoECasting\obj\Debug\net6.0\ref\ConversãoECasting.dll

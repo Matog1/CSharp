@@ -1,0 +1,15 @@
+C:\Users\Mathias\Desktop\CursoCSharp\ClassMath\obj\Debug\net6.0\ClassMath.csproj.AssemblyReference.cache
+C:\Users\Mathias\Desktop\CursoCSharp\ClassMath\obj\Debug\net6.0\ClassMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Desktop\CursoCSharp\ClassMath\obj\Debug\net6.0\ClassMath.AssemblyInfoInputs.cache
+C:\Users\Mathias\Desktop\CursoCSharp\ClassMath\obj\Debug\net6.0\ClassMath.AssemblyInfo.cs
+C:\Users\Mathias\Desktop\CursoCSharp\ClassMath\obj\Debug\net6.0\ClassMath.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\CursoCSharp\ClassMath\bin\Debug\net6.0\ClassMath.exe
+C:\Users\Mathias\Desktop\CursoCSharp\ClassMath\bin\Debug\net6.0\ClassMath.deps.json
+C:\Users\Mathias\Desktop\CursoCSharp\ClassMath\bin\Debug\net6.0\ClassMath.runtimeconfig.json
+C:\Users\Mathias\Desktop\CursoCSharp\ClassMath\bin\Debug\net6.0\ClassMath.dll
+C:\Users\Mathias\Desktop\CursoCSharp\ClassMath\bin\Debug\net6.0\ClassMath.pdb
+C:\Users\Mathias\Desktop\CursoCSharp\ClassMath\obj\Debug\net6.0\ClassMath.dll
+C:\Users\Mathias\Desktop\CursoCSharp\ClassMath\obj\Debug\net6.0\refint\ClassMath.dll
+C:\Users\Mathias\Desktop\CursoCSharp\ClassMath\obj\Debug\net6.0\ClassMath.pdb
+C:\Users\Mathias\Desktop\CursoCSharp\ClassMath\obj\Debug\net6.0\ClassMath.genruntimeconfig.cache
+C:\Users\Mathias\Desktop\CursoCSharp\ClassMath\obj\Debug\net6.0\ref\ClassMath.dll

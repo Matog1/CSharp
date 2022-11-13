@@ -1,0 +1,15 @@
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.exe
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.deps.json
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.runtimeconfig.json
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.pdb
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.AssemblyInfo.cs
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\MembrosEstaticos\obj\Debug\net6.0\refint\MembrosEstaticos.dll
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.pdb
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.genruntimeconfig.cache
+C:\Users\matia\OneDrive\Área de Trabalho\CSharp\MembrosEstaticos\obj\Debug\net6.0\ref\MembrosEstaticos.dll
